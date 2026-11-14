@@ -37,7 +37,7 @@
   "dependencies": {
     "@bufbuild/protobuf": "1.10.0",
     "@connectrpc/connect": "^1.7.0",
-    "@connectrpc/connect-node": "^1.7.0",
+    "@connectrpc/connect-node": "^2.3.0",
     "yaml": "^2.8.0"
   },
   "devDependencies": {
